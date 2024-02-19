@@ -11,7 +11,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 
 **16 Februari 2024 - 18 Februari 2024**
 <br/>
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
 * Belajar memahami kebutuhan Aplikasi
 * Belajar Tips Sikap Kerja dalam Meneliti, Menganalisis, dan Mengevaluasi Kebutuhan Aplikasi
 * Belajar tentang SKPL (Spesifikasi Kebutuhan Perangkat Lunak)
@@ -22,7 +22,7 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 
 **18 Februari 2024**
 <br/>
-Belajar Dasar Git dengan GitHub
+Belajar Dasar Git dengan GitHub. (Progres 39%)
 *  Belajar tentang apa itu Git dan alasan menggunakannya.
 *  Belajar perintah dasar Git
 *  Belajar membuat repositori
