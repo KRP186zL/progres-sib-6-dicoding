@@ -19,3 +19,24 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
 * Belajar tentang Flowchart
 * Belajar konsep dasar Pemrograman
 * Belajar memodifikasi Perangkat Lunak(Pengenalan HTML, Pengenalan CSS, Studi Kasus Aplikasi Login)
+
+**18 Februari 2024**
+<br/>
+Belajar Dasar Git dengan GitHub. (Progres 39%)
+*  Belajar tentang apa itu Git dan alasan menggunakannya.
+*  Belajar perintah dasar Git
+*  Belajar membuat Repositori
+*  Belajar membuat README
+*  Belajar menambahkan file
+*  Belajar melakukan commit
+*  Belajar membuat Release File
+
+**19 Februari 2024**
+<br/>
+Belajar Dasar Git dengan Github. (Progres 48%)
+* Mengulas kembali cara membuat Repositori
+* Mengulas kembali cara melakukan commit
+* Mengulas kembali cara Membuat Readme
+* Belajar mengubah tampilan README menggunakan format Markdown
+* Belajar melihat histori perubahan
+* Mengulas kembali cara membuat Release File (Version)
