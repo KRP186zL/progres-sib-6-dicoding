@@ -40,3 +40,12 @@ Belajar Dasar Git dengan Github. (Progres 48%)
 * Belajar mengubah tampilan README menggunakan format Markdown
 * Belajar melihat histori perubahan
 * Mengulas kembali cara membuat Release File (Version)
+
+**20 Februari 2024**
+<br/>
+Belajar Dasar Git dengan Github. (Progres 56%)
+* Belajar membuat Branch (cabang)
+* Belajar tentang Git Checkout
+* Belajar tentang Pull Request
+* Belajar melakukan Merge
+* Belajar mengatasi Conflict pada saat proses Merge
