@@ -48,4 +48,15 @@ Belajar Dasar Git dengan Github. (Progres 56%)
 * Belajar tentang Git Checkout
 * Belajar tentang Pull Request
 * Belajar melakukan Merge
+* Belajar mengatasi Conflict pada saat proses Merge(coba sendiri)
+
+**21 Februari 2024**
+<br/>
+Belajar Dasar Git dengan Github. (Progres 
 * Belajar mengatasi Conflict pada saat proses Merge
+* Belajar cara kolaborasi dengan tim
+* Belajar menambahkan akun kolaborator
+* Belajar commit dan pull request menggunakan akun kolaborator
+* Belajar tentang apa itu Fork
+* Belajar cara melakukan Fork
+* Belajar mencoba melakukan kolaborasi 3 orang menggunakan Fork(coba sendiri)
