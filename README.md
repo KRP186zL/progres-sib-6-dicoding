@@ -2,6 +2,7 @@ progres-sib-6-dicoding
 ==
 Berisikan progres saya selama mengikuti SIB di dicoding.
 --
+### Februari :
 **16 Februari 2024**
 <br/>
 Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
@@ -61,3 +62,13 @@ Belajar Dasar Git dengan Github. (Progres 68%)
 * Belajar cara melakukan Fork
 * Belajar mencoba melakukan kolaborasi 3 orang menggunakan Fork(coba sendiri)
 * Belajar apa itu Revert
+
+**23 Februari 2024**
+<br/>
+Belajar Dasar Git dengan Github. (Progres 100%)
+* Belajar tentang apa itu Merge Squashing Changes
+* Belajar melakukan Squashing Changes
+* Belajar tentang apa itu Code Reviews
+* Belajar melakukan Code Reviews
+* Belajar melakukan Studi Kasus Kolaborasi dengan Tim
+* Belajar membuat Portofolio menggunakan Github
