@@ -72,3 +72,17 @@ Belajar Dasar Git dengan Github. (Progres 100%)
 * Belajar melakukan Code Reviews
 * Belajar melakukan Studi Kasus Kolaborasi dengan Tim
 * Belajar membuat Portofolio menggunakan Github
+
+**24 Februari 2024**
+<br/>
+Belajar Dasar Pemrograman Web. (Progres
+* Belajar cara Internet bekerja
+* Belajar pengenalan HTML
+* Belajar pendalaman HTML
+* Belajar cara membuat Heading
+* Belajar cara membuat Paragraf
+* Belajar cara membuat List
+* Belajar cara memasukkan Gambar/Image
+* Belajar Inline Formatting Text
+* Belajar cara membuat Anchor(Hyperlink)
+* Belajar Semantic HTML
