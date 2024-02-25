@@ -73,7 +73,7 @@ Belajar Dasar Git dengan Github. (Progres 100%)
 * Belajar melakukan Studi Kasus Kolaborasi dengan Tim
 * Belajar membuat Portofolio menggunakan Github
 
-**24 Februari 2024**
+**24 Februari 2024 - 25 Februari 2024**
 <br/>
 Belajar Dasar Pemrograman Web. (Progres
 * Belajar cara Internet bekerja
@@ -86,3 +86,9 @@ Belajar Dasar Pemrograman Web. (Progres
 * Belajar Inline Formatting Text
 * Belajar cara membuat Anchor(Hyperlink)
 * Belajar Semantic HTML
+* Belajar tentang Generic Element (Div dan Span)
+* Belajar membuat Table
+* Belajar membuat Input dan melakukan Validasi
+* Belajar membuat Form
+* Belajar apa itu Action, Method (GET dan POST) dalam mengirim data pada Form
+* Belajar tentang apa Spesial Character(Entity Code)
