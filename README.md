@@ -96,3 +96,8 @@ Belajar Dasar Pemrograman Web. (Progres
 * Belajar Menulis Aturan Styling
 * Belajar cara Melampirkan Styling pada Dokumen HTML
 * Belajar konsep CSS
+* Belajar CSS Selector
+* Belajar Psuedo Selector (Psuedo Class & Psuedo Element)
+* Belajar Styling Font
+* Belajar Styling Text
+* Belajar menggunakan Google Font
