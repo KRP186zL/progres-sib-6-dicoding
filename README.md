@@ -75,7 +75,7 @@ Belajar Dasar Git dengan Github. (Progres 100%)
 
 **24 Februari 2024 - 26 Februari 2024**
 <br/>
-Belajar Dasar Pemrograman Web. (Progres
+Belajar Dasar Pemrograman Web. (Progres 64%)
 * Belajar cara Internet bekerja
 * Belajar pengenalan HTML
 * Belajar pendalaman HTML
@@ -101,3 +101,5 @@ Belajar Dasar Pemrograman Web. (Progres
 * Belajar Styling Font
 * Belajar Styling Text
 * Belajar menggunakan Google Font
+* Belajar Styling Warna
+* Belajar Box Model
