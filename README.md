@@ -102,4 +102,11 @@ Belajar Dasar Pemrograman Web. (Progres 64%)
 * Belajar Styling Text
 * Belajar menggunakan Google Font
 * Belajar Styling Warna
-* Belajar Box Model
+
+**27 Februari 2024**
+<br/>
+Mengikuti ILT SS(Softskills) **Personal Productivity: How to Boost Your Output**
+
+Belajar Dasar Pemrograman Web. (Progres 69%)
+  * Belajar Box Model
+  * Belajar Box Shadow
