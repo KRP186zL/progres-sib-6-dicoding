@@ -110,3 +110,8 @@ Mengikuti ILT SS(Softskills) **Personal Productivity: How to Boost Your Output**
 Belajar Dasar Pemrograman Web. (Progres 69%)
   * Belajar Box Model
   * Belajar Box Shadow
+
+**28 Februari 2024**
+<br/>
+Belajar Dasar Pemrograman Web. (Progres 74%)
+* Belajar Positioning
