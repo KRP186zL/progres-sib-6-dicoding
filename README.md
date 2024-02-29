@@ -117,10 +117,19 @@ Belajar Dasar Pemrograman Web. (Progres 74%)
 * Belajar Rounded Corner
 * Belajar Positioning
 
-**28 Februari 2024**
+**29 Februari 2024**
 <br/>
 Belajar Dasar Pemrograman Web. (Progres 89%)
 * Belajar Floating
 * Belajar Media Query
 * Belajar membuat Mobile Version
 * Belajar Debugging dan Optimasi
+<hr/>
+
+### Maret :
+**1 Maret 2024**
+<br/>
+Belajar Dasar Pemrograman Web. (Progres 91%)
+* Belajar tentang pengantar Flexbox
+* Belajar dasar-dasar Terminologi Flexbox
+* Belajar properti-properti pada Flex Container
