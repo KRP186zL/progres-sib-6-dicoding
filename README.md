@@ -114,4 +114,13 @@ Belajar Dasar Pemrograman Web. (Progres 69%)
 **28 Februari 2024**
 <br/>
 Belajar Dasar Pemrograman Web. (Progres 74%)
+* Belajar Rounded Corner
 * Belajar Positioning
+
+**28 Februari 2024**
+<br/>
+Belajar Dasar Pemrograman Web. (Progres 89%)
+* Belajar Floating
+* Belajar Media Query
+* Belajar membuat Mobile Version
+* Belajar Debugging dan Optimasi
