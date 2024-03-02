@@ -129,7 +129,9 @@ Belajar Dasar Pemrograman Web. (Progres 89%)
 ### Maret :
 **1 Maret 2024**
 <br/>
-Belajar Dasar Pemrograman Web. (Progres 91%)
+Belajar Dasar Pemrograman Web. (Progres 100%)
 * Belajar tentang pengantar Flexbox
 * Belajar dasar-dasar Terminologi Flexbox
 * Belajar properti-properti pada Flex Container
+* Belajar melakukan Studi Kasus membuat Landing Page
+* Belajar meningkatkan Responsif menggunakan Flexbox pada Studi Kasus membuat Landing Page
