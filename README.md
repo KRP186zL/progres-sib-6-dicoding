@@ -135,3 +135,19 @@ Belajar Dasar Pemrograman Web. (Progres 100%)
 * Belajar properti-properti pada Flex Container
 * Belajar melakukan Studi Kasus membuat Landing Page
 * Belajar meningkatkan Responsif menggunakan Flexbox pada Studi Kasus membuat Landing Page
+* Berhasil melakukan submission kelas Belajar Dasar Pemrograman Web, dengan mendapatkan nilai maksimal
+
+### Maret :
+**2 Maret 2024 - 7 Maret 2024**
+<br/>
+Belajar Dasar JavaScript. (Progres 81%)
+* Belajar Sejarah JavaScript
+* Belajar Fundamental JavaScript(Variabel, Tipe data, Operator, Loop, Percabangan, Komentar)
+* Belajar Structur Data (Array, Objek, Map, Set,Destructuring Objek & Array, Weakmap & Weakset dan Spread Operator)
+* Belajar Function (Cara mendeklarasikan Function, Cara menginvoke Function, Belajar Parameter, Closure, Variabel Scope, Arrow Function)
+* Belajar OOP(Cara mendeklarasikan Class,Cara membuat Instance, Constructor, Properti & Method, Overriding, Pewarisan(Inheritance))
+* Belajar Functional Programming(Pure Function, Immutability, Rekursif, Reusable Function, Belajar menggunakan Map & Filter pada Array)
+* Belajar Setup Environment(Text editor & terminal, Node JS, Installasi Node JS menggunakan NVM, Membuat project JavaScript, menjalankan project Node)
+* Belajar Module(Import dan Eksport Module/file JS)
+* Belajar Penanganan Error(Try and Catch, Throwing Error, Custom Error)
+* Belajar Asynchronus(Pengenalan Asynchronus, mengenal Function setTimeout, Asyncronus handling dengan Callback, Asyncronus handling dengan Promise, Promisify)
