@@ -137,17 +137,81 @@ Belajar Dasar Pemrograman Web. (Progres 100%)
 * Belajar meningkatkan Responsif menggunakan Flexbox pada Studi Kasus membuat Landing Page
 * Berhasil melakukan submission kelas Belajar Dasar Pemrograman Web, dengan mendapatkan nilai maksimal
 
-### Maret :
 **2 Maret 2024 - 7 Maret 2024**
 <br/>
 Belajar Dasar JavaScript. (Progres 81%)
 * Belajar Sejarah JavaScript
-* Belajar Fundamental JavaScript(Variabel, Tipe data, Operator, Loop, Percabangan, Komentar)
-* Belajar Structur Data (Array, Objek, Map, Set,Destructuring Objek & Array, Weakmap & Weakset dan Spread Operator)
-* Belajar Function (Cara mendeklarasikan Function, Cara menginvoke Function, Belajar Parameter, Closure, Variabel Scope, Arrow Function)
-* Belajar OOP(Cara mendeklarasikan Class,Cara membuat Instance, Constructor, Properti & Method, Overriding, Pewarisan(Inheritance))
-* Belajar Functional Programming(Pure Function, Immutability, Rekursif, Reusable Function, Belajar menggunakan Map & Filter pada Array)
-* Belajar Setup Environment(Text editor & terminal, Node JS, Installasi Node JS menggunakan NVM, Membuat project JavaScript, menjalankan project Node)
-* Belajar Module(Import dan Eksport Module/file JS)
-* Belajar Penanganan Error(Try and Catch, Throwing Error, Custom Error)
-* Belajar Asynchronus(Pengenalan Asynchronus, mengenal Function setTimeout, Asyncronus handling dengan Callback, Asyncronus handling dengan Promise, Promisify)
+* Belajar Fundamental JavaScript
+   * Variabel
+   * Tipe data
+   * Operator
+   * Loop
+   * Percabangan
+   * Komentar
+* Belajar Structur Data
+   * Array
+   * Objek
+   * Map
+   * Set
+   * Destructuring Objek & Array
+   * Weakmap & Weakset
+   * Spread Operator
+* Belajar Function
+   * Cara mendeklarasikan Function
+   * Cara meng-invoke Function (memanggil function)
+   * Parameter & Argument
+   * Closure
+   * Variabel Scope
+   * Arrow Function
+* Belajar OOP
+   * Cara mendeklarasikan Class
+   * Cara membuat Instance
+   * Constructor
+   * Properti & Method
+   * Overriding
+   * Pewarisan (Inheritance)
+* Belajar Functional Programming
+   * Pure Function
+   * Immutability
+   * Rekursif
+   * Reusable Function
+   * Cara menggunakan Map & Filter pada Array
+* Belajar Setup Environment
+   * Mengenal Text Editor & Terminal
+   * Node JS
+   * Installasi Node JS menggunakan NVM
+   * Membuat Project JavaScript
+   * Menjalankan Project Node
+* Belajar Module
+   * Import File (ES5 dan ES6)
+   * Export File (ES5 dan ES6)
+* Belajar Penanganan Error
+   * Try and Catch
+   * Finally
+   * Throwing Error
+   * Custom Error
+* Belajar Asynchronus
+  * Pengenalan Asynchronous
+  * Mengenal Function setTimeout
+  * Asynchronous handling menggunakan Callback
+  * Asynchronous handling menggunakan Promise
+  * Promisify
+
+**8 Maret 2024**
+<br/>
+Belajar Dasar JavaScript. (Progres 100%)
+* Belajar Asynchronus
+   * Promise Chaining(berantai)
+   * Promise Static Method
+   * Async & Await
+* Belajar Node Package Manager (NPM) (Pengenalan apa itu NPM, Belajar membuat project menggunakan <code>npm init</code>, Belajar
+  * Pengenalan apa itu NPM
+  * Cara membuat project menggunakan NPM INIT
+  * Cara Menginstall Package
+  * Cara menggunakan Package
+  * Cara menghapus Package
+* Belajar JavaScript Testing
+   * Pengenalan JavaScript Testing
+   * Membahas library yang sering digunakan (salah satunya <em>jest</em> <code>npm install jest</code> yang sering digunakan untuk melakukan testing)
+   * Membuat kode untuk melakukan Testing
+   * Melakukan Testing pada project JavaScript
