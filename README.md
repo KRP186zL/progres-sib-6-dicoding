@@ -215,3 +215,32 @@ Belajar Dasar JavaScript. (Progres 100%)
    * Membahas library yang sering digunakan (salah satunya <em>jest</em> <code>npm install jest</code> yang sering digunakan untuk melakukan testing)
    * Membuat kode untuk melakukan Testing
    * Melakukan Testing pada project JavaScript
+
+**9 Maret 2024 - 12 Maret 2024**
+<br/>
+Belajar Membuat Front-End Web untuk Pemula. (Progress 30%)
+* Belajar BOM (Browser Objek Model)
+   * Pengelanan BOM (Browser Object Model)
+   * Mengenal apa itu method Alert & Promt pada Window Object
+      * <code>window.alert()</code>
+      * <code>window.prompt()</code>
+   * Mengenal apa itu Objek Console
+      * <code>console.log("berisi pesan secara umum")</code>
+      * <code>console.info("menampilkan informasi penting")</code>
+      * <code>console.warn("menampilkan pesan dalam bentuk peringatan")</code>
+      * <code>console.error("menampilkan pesan dalam bentuk error")</code>
+     
+* Belajar DOM (Document Object Model)
+   * Pengenalan DOM (Document Objek Model)
+   * Cara mendapatkan DOM
+      * <code>document.getElementByID("#id")</code>
+      * <code>document.getElementsByName("atribut name")</code>
+      * <code>document.getElementsByClassName(".class")</code>
+      * <code>document.getElementsByTagName("tag HTML")</code>
+      * <code>document.querySelector("1 elemen secara spesifik")</code>
+      * <code>document.querySelectorAll("semua elemen secara spesifik")</code>
+   * Cara membuat Element HTML menggunakan DOM
+      * untuk membuat elemen baru pada HTML kita bisa menggunakan : <code>document.createElement("nama tag")</code>
+      * untuk mengisi teks dari elemen yang dibuat atau di select bisa menggunakan : <code>variabelElement.innerText = "Isi teks"</code>
+      * untuk mengisi teks dan menambahkan tag HTML didalam nya, kita bisa menggunakan : <code>variabelElement.innerHTML = "Isi teks"</code>
+      * untuk menambahkan atribut pada tag yang dibuat/sudah ada , kita bisa menggunakan : <code>variabelElement.setAttribute("attribute name" "value")</code>
