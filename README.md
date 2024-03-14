@@ -1,4 +1,4 @@
-progres-sib-6-dicoding
+![image](https://github.com/KRP186zL/progres-sib-6-dicoding/assets/117445664/d772ef28-03e8-4871-99c9-c1fda240656d)progres-sib-6-dicoding
 ==
 Berisikan progres saya selama mengikuti SIB di dicoding.
 --
@@ -216,9 +216,9 @@ Belajar Dasar JavaScript. (Progres 100%)
    * Membuat kode untuk melakukan Testing
    * Melakukan Testing pada project JavaScript
 
-**9 Maret 2024 - 12 Maret 2024**
+**9 Maret 2024 - 13 Maret 2024**
 <br/>
-Belajar Membuat Front-End Web untuk Pemula. (Progress 30%)
+Belajar Membuat Front-End Web untuk Pemula. (Progress 37%)
 * Belajar BOM (Browser Objek Model)
    * Pengelanan BOM (Browser Object Model)
    * Mengenal apa itu method Alert & Promt pada Window Object
@@ -243,4 +243,21 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 30%)
       * untuk membuat elemen baru pada HTML kita bisa menggunakan : <code>document.createElement("nama tag")</code>
       * untuk mengisi teks dari elemen yang dibuat atau di select bisa menggunakan : <code>variabelElement.innerText = "Isi teks"</code>
       * untuk mengisi teks dan menambahkan tag HTML didalam nya, kita bisa menggunakan : <code>variabelElement.innerHTML = "Isi teks"</code>
-      * untuk menambahkan atribut pada tag yang dibuat/sudah ada , kita bisa menggunakan : <code>variabelElement.setAttribute("attribute name" "value")</code>
+      * untuk menambahkan atribut pada tag yang dibuat/sudah ada , kita bisa menggunakan : <code>variabelElement.setAttribute("attribute name", "value")</code>
+  * Studi Kasus Mengubah Konten HTML
+     * memanipulasi atribut menggunakan <code>setAttribute()</code>
+     * mengambil child/anak dari suatu element menggunakan <code>variableElemen.children&#91;index-ke&#93;</code>
+     * memanipulasi konten melalui <code>innerText</code>, <code>innerHTML</code>, dan <code>style.namaProperty</code>
+     * menambahkan element HTML ke DOM menggunakan <code>appendChild()</code> dan <code>insertBefore()</code>
+
+**14 Maret 2024**
+<br/>
+Belajar Membuat Front-End Web untuk Pemula. (Progress 42%)
+*  Belajar Interaktif dengan Event
+   * Pengenalan apa itu Even
+   * Macam-macam Even
+      * Window Events : <code>onload</code>, <code>onpageshow</code>, <code>onresize</code>
+      * Form Events : <code>onreset</code>, <code>onsubmit</code>
+      * Keyboard Events : <code>onkeydown</code>, <code>onkeypress</code>, <code>onkeyup</code>
+      * Clipboard Events : <code>oncopy</code>, <code>oncut</code>, <code>onpaste</code>
+      * Mouse Events : <code>onclick</code>, <code>ondblclick</code>, <code>onmousehover</code>
