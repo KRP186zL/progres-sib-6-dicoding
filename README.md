@@ -1,4 +1,4 @@
-![image](https://github.com/KRP186zL/progres-sib-6-dicoding/assets/117445664/d772ef28-03e8-4871-99c9-c1fda240656d)progres-sib-6-dicoding
+Progres-SIB-6-Dicoding
 ==
 Berisikan progres saya selama mengikuti SIB di dicoding.
 --
