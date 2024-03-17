@@ -250,20 +250,25 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 37%)
      * memanipulasi konten melalui <code>innerText</code>, <code>innerHTML</code>, dan <code>style.namaProperty</code>
      * menambahkan element HTML ke DOM menggunakan <code>appendChild()</code> dan <code>insertBefore()</code>
 
-**14 Maret 2024 - 16 Maret 2024**
+**14 Maret 2024 - 17 Maret 2024**
 <br/>
-Belajar Membuat Front-End Web untuk Pemula. (Progress 50%)
+Belajar Membuat Front-End Web untuk Pemula. (Progress 55%)
 *  Belajar Interaktif dengan Event
-   * Pengenalan apa itu Even
-   * Macam-macam Even
-     * Window Events : <code>onload</code>, <code>onpageshow</code>, <code>onresize</code>
-     * Form Events : <code>onreset</code>, <code>onsubmit</code>
-     * Keyboard Events : <code>onkeydown</code>, <code>onkeypress</code>, <code>onkeyup</code>
-     * Clipboard Events : <code>oncopy</code>, <code>oncut</code>, <code>onpaste</code>
-     * Mouse Events : <code>onclick</code>, <code>ondblclick</code>, <code>onmousehover</code>
+    * Pengenalan apa itu Even
+    * Macam-macam Even
+    * Window Events : <code>onload</code>, <code>onpageshow</code>, <code>onresize</code>
+    * Form Events : <code>onreset</code>, <code>onsubmit</code>
+    * Keyboard Events : <code>onkeydown</code>, <code>onkeypress</code>, <code>onkeyup</code>
+    * Clipboard Events : <code>oncopy</code>, <code>oncut</code>, <code>onpaste</code>
+    * Mouse Events : <code>onclick</code>, <code>ondblclick</code>, <code>onmousehover</code>
   * Menambahkan Event Handler
-     * Membuat Event Handler <code>oncload</code>
-     * Membuat Event Handler <code>onclick</code>
-     * Menerapkan Event Handler Inline
-     * Menerapkan Event Handler dengan <code>addEventListener()</code>
-     * Menambahkan Custom Event
+    * Membuat Event Handler <code>oncload</code>
+    * Membuat Event Handler <code>onclick</code>
+    * Menerapkan Event Handler Inline
+    * Menerapkan Event Handler dengan <code>addEventListener()</code>
+    * Menambahkan Custom Event
+      * Membuat Custom Event menggunakan new Event. <code>const variableCustomEvent = new Event("namaCustomEvent");</code>
+      * Menerapkan Custom Event Handler menggunakan addEventListener. <code>variableElemen.addEventListener("namaCustomEvent", namaFunctionYangAkanDigunakan);</code>
+    * Mengaktifkan Custom Event menggunakan dispatchEvent. <code>variableElemen.dispatchEvent(variableCustomEvent);</code>
+    * Event Bubbling dan Capturing
+    * Form Event
