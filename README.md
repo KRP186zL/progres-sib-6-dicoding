@@ -250,25 +250,36 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 37%)
      * memanipulasi konten melalui <code>innerText</code>, <code>innerHTML</code>, dan <code>style.namaProperty</code>
      * menambahkan element HTML ke DOM menggunakan <code>appendChild()</code> dan <code>insertBefore()</code>
 
-**14 Maret 2024 - 17 Maret 2024**
+**14 Maret 2024 - 18 Maret 2024**
 <br/>
-Belajar Membuat Front-End Web untuk Pemula. (Progress 55%)
-*  Belajar Interaktif dengan Event
-    * Pengenalan apa itu Even
-    * Macam-macam Even
-    * Window Events : <code>onload</code>, <code>onpageshow</code>, <code>onresize</code>
-    * Form Events : <code>onreset</code>, <code>onsubmit</code>
-    * Keyboard Events : <code>onkeydown</code>, <code>onkeypress</code>, <code>onkeyup</code>
-    * Clipboard Events : <code>oncopy</code>, <code>oncut</code>, <code>onpaste</code>
-    * Mouse Events : <code>onclick</code>, <code>ondblclick</code>, <code>onmousehover</code>
-  * Menambahkan Event Handler
-    * Membuat Event Handler <code>oncload</code>
-    * Membuat Event Handler <code>onclick</code>
-    * Menerapkan Event Handler Inline
-    * Menerapkan Event Handler dengan <code>addEventListener()</code>
-    * Menambahkan Custom Event
-      * Membuat Custom Event menggunakan new Event. <code>const variableCustomEvent = new Event("namaCustomEvent");</code>
-      * Menerapkan Custom Event Handler menggunakan addEventListener. <code>variableElemen.addEventListener("namaCustomEvent", namaFunctionYangAkanDigunakan);</code>
-    * Mengaktifkan Custom Event menggunakan dispatchEvent. <code>variableElemen.dispatchEvent(variableCustomEvent);</code>
-    * Event Bubbling dan Capturing
-    * Form Event
+Belajar Membuat Front-End Web untuk Pemula. (Progress 62%)
+* Belajar Interaktif dengan Event
+   * Pengenalan apa itu Even
+   * Macam-macam Even
+   * Window Events : <code>onload</code>, <code>onpageshow</code>, <code>onresize</code>
+   * Form Events : <code>onreset</code>, <code>onsubmit</code>
+   * Keyboard Events : <code>onkeydown</code>, <code>onkeypress</code>, <code>onkeyup</code>
+   * Clipboard Events : <code>oncopy</code>, <code>oncut</code>, <code>onpaste</code>
+   * Mouse Events : <code>onclick</code>, <code>ondblclick</code>, <code>onmousehover</code>
+   * Menambahkan Event Handler
+     * Membuat Event Handler <code>oncload</code>
+     * Membuat Event Handler <code>onclick</code>
+     * Menerapkan Event Handler Inline
+     * Menerapkan Event Handler dengan <code>addEventListener()</code>
+     * Menambahkan Custom Event
+       * Membuat Custom Event menggunakan new Event. <code>const variableCustomEvent = new Event("namaCustomEvent");</code>
+       * Menerapkan Custom Event Handler menggunakan addEventListener. <code>variableElemen.addEventListener("namaCustomEvent", namaFunctionYangAkanDigunakan);</code>
+   * Mengaktifkan Custom Event menggunakan dispatchEvent. <code>variableElemen.dispatchEvent(variableCustomEvent);</code>
+   * Event Bubbling dan Capturing
+   * Form Event
+     * Agar website tidak reload ketika form disubmit, tambahkan <code>event.preventDefault()</code>. <em>event</em> merupakan paramater dari function yang ada didalam event listener.   <code>elementVariable.addEventListener("click", (<strong><em>event</em></strong>)=>{})</code>
+   * Input Event
+     * oninput : <code>variableElemen.addEventListener("<strong>input</strong>",()=>{})</code>
+     * onfocus : <code>variableElemen.addEventListener("<strong>focus</strong>",()=>{})</code>
+     * onblur  : <code>variableElemen.addEventListener("<strong>blur</strong>",()=>{})</code>
+     * onchange : <code>variabelElement.addEventListener("<strong>change</strong>",()=>{})</code>
+     * obsubmit : <code>variabelElement.addEventListener("<strong>submit</strong>",()=>{})</code>
+     * oncopy : <code>variabelElement.addEventListener("<strong>copy</strong>",()=>{})</code>
+     * onpaste : <code>variabelElement.addEventListener("<strong>paste</strong>",()=>{})</code>
+   * Membuat Aplikasi Todo List
+     
