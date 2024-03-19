@@ -250,9 +250,9 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 37%)
      * memanipulasi konten melalui <code>innerText</code>, <code>innerHTML</code>, dan <code>style.namaProperty</code>
      * menambahkan element HTML ke DOM menggunakan <code>appendChild()</code> dan <code>insertBefore()</code>
 
-**14 Maret 2024 - 18 Maret 2024**
+**14 Maret 2024 - 20 Maret 2024**
 <br/>
-Belajar Membuat Front-End Web untuk Pemula. (Progress 62%)
+Belajar Membuat Front-End Web untuk Pemula. (Progress 85%)
 * Belajar Interaktif dengan Event
    * Pengenalan apa itu Even
    * Macam-macam Even
@@ -281,5 +281,16 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 62%)
      * obsubmit : <code>variabelElement.addEventListener("<strong>submit</strong>",()=>{})</code>
      * oncopy : <code>variabelElement.addEventListener("<strong>copy</strong>",()=>{})</code>
      * onpaste : <code>variabelElement.addEventListener("<strong>paste</strong>",()=>{})</code>
-   * Membuat Aplikasi Todo List
+   * Studi Kasus Membuat Aplikasi Todo List
+   * Penyimpanan Data dengan Web Storage
+     * Pengenalan Penyimpanan Data dengan Web Storage
+     * Macam-macam Web Storage :
+       * Local Storage
+       * Session Storage
+   * Studi Kasus Membuat Permain Tebak Angka
+     * Menambahkan item Storage
+     * Mengakses item Storage
+     * Memodifikasi item Storage
+     * Menghapus item Storage
+     * Menyimpan data kompleks pada Storage menggunakan objek JSON
      
