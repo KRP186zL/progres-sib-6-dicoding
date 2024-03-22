@@ -252,7 +252,7 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 37%)
 
 **14 Maret 2024 - 20 Maret 2024**
 <br/>
-Belajar Membuat Front-End Web untuk Pemula. (Progress 85%)
+Belajar Membuat Front-End Web untuk Pemula. (Progress 100%)
 * Belajar Interaktif dengan Event
    * Pengenalan apa itu Even
    * Macam-macam Even
@@ -293,4 +293,4 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 85%)
      * Memodifikasi item Storage
      * Menghapus item Storage
      * Menyimpan data kompleks pada Storage menggunakan objek JSON
-     
+* Berhasil melakukan submission kelas Belajar Membuat Front-End Web untuk Pemula, dengan mendapatkan nilai maksimal 
