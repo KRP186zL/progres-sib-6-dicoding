@@ -294,3 +294,91 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 100%)
      * Menghapus item Storage
      * Menyimpan data kompleks pada Storage menggunakan objek JSON
 * Berhasil melakukan submission kelas Belajar Membuat Front-End Web untuk Pemula, dengan mendapatkan nilai maksimal 
+
+**24 Maret 2024 - 25 Maret 2024**
+<br/>
+Belajar Fundamental Front-End Web Development. (Progress 13%)
+* HTML Form Lanjutan
+  * Cara <code>Form</code> mengirim Data
+    * GET
+    * POST
+  * User dapat mengirimkan data
+  * Dukungan mengirim berkas
+    * <code>enctype="multipart/form-data"</code>
+* Pendalaman Form Field
+  * Membantu user memasukkan teks
+    * <code>&lt;input type="text"&gt;</code>
+    * <code><textarea></textarea></code>
+  * Membantu mengisi data yang sesuai
+    * <code>&lt;input type="email"&gt;</code>
+    * <code>&lt;input type="password"&gt;</code>
+    * <code>&lt;input type="tel"&gt;</code>
+  * Mengisi data tanggal
+    * <code>&lt;input type="date"&gt;</code>
+    * <code>&lt;input type="time"&gt;</code>
+    * <code>&lt;input type="datetime-local"&gt;</code>
+  * Opsi input
+    * <code>select</code>&gt;<code>option</code>
+    * <code>datalist</code>&gt;<code>option</code>
+  * Dukungan lainnya
+    * <code>&lt;input type="hidden"&gt;</code>
+* Pendalaman Attribute Form Field
+  * Menentukan tipe input
+  * Memudahkan pengisian data
+    * <code>inputmode</code>
+    * <code>enterkeyhint</code>
+  * Ekspektasi perlu diselaraskan
+    * Input yang memiliki Attribute <code>placeholder</code> dapat berpotensi menimbulkan kebingungan di sisi user
+    * Untuk mengatasi hal itu, kita bisa menambahkan Attribute <code>aria-describedby</code> untuk membantu proses screen reader,
+    * Kemudian kita bisa membuat element <code>span</code> dibawah input untuk memberikan penjelasan kepada user (apa yang harus di isi pada input tersebut)
+  * Validasi Data
+    * Ketepatan tipe input
+    * Wajib diisi
+      * Gunakan Attribute <code>required</code>
+    * Batasan diperlukan
+      * <code>min</code>
+      * <code>max</code>
+      * <code>step</code>
+      * <code>maxlength</code>
+      * <code>minlength</code>
+    * Lebih ketat lebih baik
+      * Kita bisa menggunakan <strong>Regex</strong> atau <em>Regular Expression</em> pada Attribute <code>pattern</code>
+    * Custom validasi menggunakan JavaScript
+      * Constraint Validation API
+      * Untuk membuat custom pesan error kita bisa menggunakan <code>setCustomValidity</code>
+      * Realtime Validation
+      * Properti <code>validationMessage</code> digunakan untuk menangkap error
+    * Tidak memerlukan validasi
+      * Attribute pada form <code>novalidate</code> atau
+      * Attribute pada button <code>formnovalidate</code>
+  * Pentingnya Auto Completion
+    * Attribute <code>autocomplete</code> untuk Autocomplete
+    * Tambahkan value <strong>off</strong> pada Attribute <em>autocomplete</em> untuk menonaktifkan autofill/autocomplete : <code>autocomplete="off"</code>
+  * Styling Form
+    * Memperjelas dengan focus, gunakan <em>psuedo-class</em>
+      * <code>:focus-visible</code> dan
+      * <code>:focus</code>
+      * Keduanya memiliki peran yang berbeda
+    * Lebih terbaca saat besar
+      * Gunakan properti <code>font-size</code> untuk mengatur ukuran font, idealnya <strong>16px</strong> atau <strong>1rem</strong> <em>(Root EM)</em>
+    * Tampilkan dengan layak
+      * Pastikan juga ukuran border tidak terlalu besar dan enak dipandang oleh user, <strong>1px</strong> saja cukup
+    * Mengubah warna aksen
+      * Form control, seperti range (slider), select, checkbox dan lainnya memiliki warna aksen
+      * Gunakan properti <code>accent-color</code> untuk mengubah warnanya
+    * Invalid State
+      * Gunakan <em>Psuedo-class</em>
+        * <code>:invalid</code>, ini akan dijalankan meskipun belum ada interaksi apapun.
+        * <code>:user-invalid</code>, untuk mengatasi hal diatas gunakan <em>Psuedo-class</em> yang ini
+    * Form Control yang Sukar Diberi Gaya
+      * Element dengan styling kompleks :
+        * Input <em>Checkbox</em>
+        * Input <em>Radio</em>
+        * Input <em>Search</em>
+      * Element yang tidak bisa distyling sama sekali :
+        * Element yang terlibat dalam pembuatan Dropdown seperti <em>Select</em>, <em>Option</em>, <em>optgroup</em> dan <em>datalist</em>
+        * Input <em>Color</em>
+        * Input yang berkaitan dengan penanggalan seperti <em>date</em>, <em>time</em>, dan <em>datetime-local</em>
+        * Input bertipe <em>Range</em>
+        * Input tipe <em>File</em>
+        * Element <code>&lt;progress&gt;</code> dan <code>&lt;meter&gt;</code>
