@@ -295,9 +295,9 @@ Belajar Membuat Front-End Web untuk Pemula. (Progress 100%)
      * Menyimpan data kompleks pada Storage menggunakan objek JSON
 * Berhasil melakukan submission kelas Belajar Membuat Front-End Web untuk Pemula, dengan mendapatkan nilai maksimal 
 
-**24 Maret 2024 - 25 Maret 2024**
+**24 Maret 2024 - 28 Maret 2024**
 <br/>
-Belajar Fundamental Front-End Web Development. (Progress 13%)
+Belajar Fundamental Front-End Web Development. (Progress 28%)
 * HTML Form Lanjutan
   * Cara <code>Form</code> mengirim Data
     * GET
@@ -382,3 +382,28 @@ Belajar Fundamental Front-End Web Development. (Progress 13%)
         * Input bertipe <em>Range</em>
         * Input tipe <em>File</em>
         * Element <code>&lt;progress&gt;</code> dan <code>&lt;meter&gt;</code>
+  * Lebih Maju dengan JavaScript
+    * Menampilkan Data Sebelumnya
+      * Gunakan properti <em>value</em> : <code>variableElemen.value</code> untuk mengambil nilai terupdate
+      * Gunakan properti <em>getAttribute</em> : <code>variableElemen.value</code>
+    * Menangani Kondisional Formulir
+    * Memproses Tanpa Meninggalkan Halaman
+      * <code>event.preventDefault()</code>
+  * Semantik itu Penting
+  * Best Practice dalam Membangun Form
+    * Label Dahulu Form Control Kemudian
+    * Layout terbaik untuk membangun formulir adalah satu kolom
+    * Memperjelas Keterangan Validasi Data
+    * Memperjelas Caption Tombol Submit
+    * Tidak perlu mematikan tombol
+    * Menyajikan yang Terbaik
+* Teknik layouting dengan CSS Grid
+  * Pengantar CSS Grid
+  * Grid vs Flexbox
+  * Terminologi Grid
+  * Grid Container dan Grid Item
+  * Inspeksi CSS Grid Layout menggunakan dev tools
+  * Tentukan Kolom dan Baris
+  * Mengatur Posisi
+  * Penuh Kendali dengan Grid Template
+  * Alignment
